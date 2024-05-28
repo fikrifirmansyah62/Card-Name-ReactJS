@@ -1,3 +1,7 @@
+# Card Name With React JS Basic
+
+![Screenshot_2024-05-28_10-48-43](https://github.com/fikrifirmansyah62/Card-Name-ReactJS/assets/110882579/95be6f08-96ea-4c1d-a484-cbd1c7075a48)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
